@@ -1,0 +1,383 @@
+{
+  "settings": {
+    "name": "SummerSplash",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.1.7",
+    "uniqCompNum": 15,
+    "versionPublish": "4.1.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/summer-splash-banner-1200x475.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/summer-splash-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Summer Splash&nbsp;",
+          "text": "<p><b>DATE:</b> 06th &amp; 07th October 2017</p><p><b>VENUE:</b>&nbsp;Heidedal community (Long Island)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://wego.here.com/directions/mix//Heidedal-Long-Island,-Rembrandt-Street,-9301-Bloemfontein:e-eyJuYW1lIjoiSGVpZGVkYWwgTG9uZyBJc2xhbmQiLCJhZGRyZXNzIjoiUmVtYnJhbmR0IFN0cmVldCwgQmxvZW1mb250ZWluLCBGcmVlIFN0YXRlIiwibGF0aXR1ZGUiOi0yOS4xNDQwODgyMzExNjUsImxvbmdpdHVkZSI6MjYuMjUxNDgxNTI4MzY2LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjEyNDQ2MjU5MTAxNzA0OX0=?map=-29.14409,26.25148,15,normal&amp;fb_locale=en_US\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-0"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "About Summer Splash",
+          "meta": "<br>The Summer Splash event, hosted by Hlono Holdings, will be held in the community, based in the center of Heidedal, Bloemfontein, Mangaung. The purpose of the event is primarily aimed at providing people with entertainment and introducing them to the music and artist that will be participating at the event.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#faaf40"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-1280x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-1280x852-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000049-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000049-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000055-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000055-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000065-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000065-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000059-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000059-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000071-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000071-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000073-copy-1280x864.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000073-copy-1280x864-800x540.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000053-copy-1280x856.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000053-copy-1280x856-800x535.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-4"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "LOCATION",
+          "meta": "Heidedal community (Long Island) Bloemfontein<br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#faaf40"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Heidedal Long Island, Rembrandt Street, 9301 Bloemfontein",
+              "placeId": "",
+              "state": "not found",
+              "stateDetails": "Not found"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-7"
+        },
+        {
+          "text": "<p>The location of the event will be held at, what we know as “Long Island”. This is a well-known area and is situated in the heart of the Heidedal community, which is situated in the eastern side of Bloemfontein. The population of Heidedal is approximately: 80 000 + residents which of 45% consist of youth.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-1280x854.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-1280x854-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000063-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000063-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000066-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000066-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000077-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000077-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000072-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000072-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000067-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000067-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-1280x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-1280x852-800x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000075-copy-1280x852.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-08-24-photo-00000075-copy-1280x852-800x532.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-a"
+        },
+        {
+          "text": "<p>The venue is in the middle of 3 phases of the community namely: Ashbury, Opkoms and Ryksmanshoogte and serves as a connection between these 3 areas. “Long Island” is a popular place in this area and is usually surrounded or filled with young individuals who are always seeking for fresh and new entertainment. We believe that these individuals are the target market and also other individuals from surrounding areas.\r</p><p>The venue can host approximately 5000 and more people which make a great layout for concerts and outdoor shows. Parking areas can also be dedicated from this area and surrounding empty lots as well as the adjacent shopping Centre (Lee-Marco) and shopping mall (Twin City Mall). Nearby police stations (Heidedal Police Station and Manguang Flying Squad) also makes it a safe venue as police always monitor and patrol at these types of events. An added safety precaution is also the Pelonomi Hospital which is 5 minutes away from the location in the case of emergencies.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/event-proposal-1400x813.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-d"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/summer-splash-banner-900x356.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-e"
+        }
+      ]
+    }
+  }
+}
