@@ -10,7 +10,11 @@
     },
     "versionFirst": "4.1.7",
     "uniqCompNum": 15,
-    "versionPublish": "4.1.7"
+    "versionPublish": "4.1.7",
+    "favicon": "@PROJECT_PATH@/assets/images/summersplash-logo-128x180.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -212,10 +216,10 @@
         {
           "_params": {
             "googleMap": {
-              "address": "Heidedal Long Island, Rembrandt Street, 9301 Bloemfontein",
-              "placeId": "",
-              "state": "not found",
-              "stateDetails": "Not found"
+              "address": "Rembrandt Street, 9301 Bloemfontein, South Africa",
+              "placeId": "ChIJA8TKD23Pjx4Rfro13q8AkMg",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "_tags": [
