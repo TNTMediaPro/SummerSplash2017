@@ -361,7 +361,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/summer-splash-banner-900x356.png",
+              "src": "@PROJECT_PATH@/assets/images/summer-splash-banner-1400x553.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
